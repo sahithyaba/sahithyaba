@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahithyaba&label=Profile%20views&color=0e75b6&style=flat" alt="sahithyaba" /> </p>
 
-- 🔭 I’m currently working on **Verse**
+- 🔭 I’m currently working on **Verse, Parental Checkmate**
 
 - 🌱 I’m currently learning **UI / UX Design, Web Development Frameworks, Design Thinking**
+
+- 📝 I regularly write articles on [Monomousumi, DailyHunt, Medium](Monomousumi, DailyHunt, Medium)
 
 - 📫 How to reach me **basahithya@gmail.com**
 
