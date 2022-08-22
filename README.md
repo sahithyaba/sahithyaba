@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI / UX Design, Web Development Frameworks, Design Thinking**
 
-- 📝 I regularly write articles on [Monomousumi, DailyHunt, Medium](Monomousumi, DailyHunt, Medium)
+- 📝 I regularly write articles on Monomousumi, DailyHunt, Medium
 
 - 📫 How to reach me **basahithya@gmail.com**
 
