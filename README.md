@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **basahithya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q4ZEw9sF6wZyWh4KchdgfsiQ4gIQzGTz/view?usp=sharing](https://drive.google.com/file/d/1q4ZEw9sF6wZyWh4KchdgfsiQ4gIQzGTz/view?usp=sharing)
+- 📄 Know about my experiences [sahithyaba.baserock.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
