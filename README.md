@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **basahithya@gmail.com**
 
-- 📄 Know about my experiences [sahithyaba.baserock.in)
+- 📄 Know about my experiences **sahithyaba.baserock.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
