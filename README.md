@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahithyaba&label=Profile%20views&color=0e75b6&style=flat" alt="sahithyaba" /> </p>
 
-- 🔭 I’m currently working on **Website for Anbalayaa A Fabrics**
+- 🔭 I’m currently building **BaseRock, SpaceNest**
 
-- 🌱 I’m currently learning **UI / UX Design, Web Development Frameworks, Design Thinking**
+- 🌱 I’m currently learning **AI, Full Stack Development, Deep Learning**
 
 - 📝 I regularly write articles on Monomousumi, DailyHunt, Medium
 
 - 📫 How to reach me **basahithya@gmail.com**
 
-- 📄 Know about my experiences **sahithyaba.baserock.in**
+- 📄 Know about my experiences: **[Portfolio](https://sahithyaba.baserock.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
