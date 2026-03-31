@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahithyaba&label=Profile%20views&color=0e75b6&style=flat" alt="sahithyaba" /> </p>
 
-- 🔭 I’m currently building **Hyrenet, BaseRock, SpaceNest**
+- 🔭 I’m currently building **Hyrenet, BaseRock, Ghostly, YT Focus Buddy**
 
 - 🌱 I’m currently learning **AI, Full Stack Development, Deep Learning**
 
 - 📝 I regularly write articles on LinkedIn, Monomousumi, DailyHunt, Medium
 
-- 📫 How to reach me **basahithya@gmail.com**
+- 📫 How to reach me **sahithyabalasubramaniam@gmail.com**
 
 - 📄 Know about my experiences: **[Portfolio](https://sahithyaba.baserock.in)**
 
